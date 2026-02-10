@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, World!
+=======
+Hey, i'm the kingggg !!!
+>>>>>>> 8e968cc43ee00f9d641ba4a783e8373a9098faeb
